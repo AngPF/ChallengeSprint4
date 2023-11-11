@@ -1,0 +1,186 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main4{
+    background-image: url(../assets/imagens/background_azul.jpg);
+    margin-top: 82rem;
+    
+}
+
+.corpo2{
+    position: absolute;
+    background-color: rgb(89, 170, 229);
+    width: 81.4rem;
+    height: 82rem;
+    margin-top: -82rem;
+}
+
+.container{
+    background-color: #d9d9d9c1;
+    width: 54rem;
+    height: 60rem;
+    margin-top: 16rem;
+    margin-left: 7rem;
+}
+
+.title h1{
+    position: absolute;
+    margin-top: 10rem;
+    margin-left: 7rem;
+    font-size: 3.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0px 8px 7px rgba(0,0,0,0.3);
+}
+
+.container h2{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3rem;
+    margin-top: 34rem;
+    font-size: 2rem;
+    text-shadow: 0px 8px 7px rgba(0,0,0,0.3);
+}
+
+.container h1{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3rem;
+    margin-top: 3rem;
+    font-size: 2rem;
+    text-shadow: 0px 8px 7px rgba(0,0,0,0.3);
+}
+
+.container h3{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3rem;
+    margin-top: 8rem;
+    font-size: 1.4rem;
+}
+.container h4{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3rem;
+    margin-top: 13rem;
+    font-size: 1.4rem;
+}
+
+.container h5{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3rem;
+    margin-top: 18rem;
+    font-size: 1.4rem;
+}
+.container h6{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3rem;
+    margin-top: 23rem;
+    font-size: 1.4rem;
+}
+
+.container h7{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3rem;
+    margin-top: 28rem;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+.bimg5{
+    margin-top: 38rem;
+    margin-left: 3rem;
+    position: absolute;
+    background-color: #ffffff;
+    width: 11rem;
+    height: 10rem;
+    border-radius: 0.5rem;
+    box-shadow: 0px 14px 14px 0px rgba(0,0,0,0.1);
+}
+
+.bimg6{
+    margin-top: 38rem;
+    margin-left: 15rem;
+    position: absolute;
+    background-color: #ffffff;
+    width: 11rem;
+    height: 10rem;
+    border-radius: 0.5rem;
+    box-shadow: 0px 14px 14px 0px rgba(0,0,0,0.1);
+}
+.bimg7{
+    margin-top: 38rem;
+    margin-left: 27rem;
+    position: absolute;
+    background-color: #ffffff;
+    width: 11rem;
+    height: 10rem;
+    border-radius: 0.5rem;
+    box-shadow: 0px 14px 14px 0px rgba(0,0,0,0.1);
+}
+.bimg8{
+    margin-top: 38rem;
+    margin-left: 39rem;
+    position: absolute;
+    background-color: #ffffff;
+    width: 11rem;
+    height: 10rem;
+    border-radius: 0.5rem;
+    box-shadow: 0px 14px 14px 0px rgba(0,0,0,0.1);
+}
+
+.bikebx2{
+    width: 11rem;
+    height: 10rem;
+}
+
+.container h8{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3rem;
+    margin-top: 50rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.container h9{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 27rem;
+    margin-top: 50rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.button9{
+    position:absolute;
+    margin-top: 2rem;
+    margin-left: 52rem;
+    border-style: none;
+    width: 9rem;
+    height: 3rem;
+    border-radius: 1rem;
+    font-weight: bolder;
+    font-size: 1.4rem;
+    background-color:green;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    color: white
+}
+
+.button10{
+    position:absolute;
+    margin-top: 2rem;
+    margin-left: 7rem;
+    border-style: none;
+    width: 9rem;
+    height: 3rem;
+    border-radius: 1rem;
+    font-weight: bolder;
+    font-size: 1.4rem;
+    background-color:gray;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    color: white
+}

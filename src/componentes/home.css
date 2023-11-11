@@ -1,0 +1,250 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+main {
+    background-image: url('../assets/imagens/background bike.jpg');
+    background-size: cover;
+    height: 650px;
+    box-shadow: 0px 14px 15px -4px rgba(0, 0, 0, 0.4);
+}
+
+
+
+.conteudotop{
+    color:#fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteudotop h1{
+    margin-left: 56px;
+    position: absolute;
+    margin-top: 200px;
+    font-size: 46px;
+    text-shadow: 4px 4px 7px rgba(0,0,0,0.3);
+}
+
+.conteudotop h2{
+    margin-left: 116px;
+    position: absolute;
+    margin-top: 450px;
+    font-size: 30px;
+}
+
+.check{
+    position: absolute;
+    margin-top: 442px;
+    width: 50px;
+    margin-left: 56px;
+}
+
+.conteudomid{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.shadow{
+   position: relative;
+   margin-left: 1060px;
+   margin-top: 950px;
+   height: 120px;
+}
+
+.montanha{
+    height: 200px;
+    margin-top: -205px;
+    float: right;
+}
+
+.conteudomid h1{
+    color: #681E03;
+    margin-left: 56px;
+    position: absolute;
+    margin-top: -350px;
+    font-size: 40px;
+    text-shadow: 4px 4px 7px rgba(0, 0, 0, 0.3);
+}
+
+.conteudomid h3{
+    margin-left: 56px;
+    position: absolute;
+    margin-top: -150px;
+    font-size: 30px;
+    text-shadow: 4px 4px 7px rgba(0,0,0,0.3);
+}
+
+.conteudobottom{
+    background-color: #FFA43B;
+    height: 39rem;
+    margin-top: -5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 4px 4px 7px rgba(0,0,0,0.39);
+    box-shadow: inset 0px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+
+.conteudobottom h1{
+    margin-left: 56px;
+    color: #681E03;
+    font-size: 30px;
+    position: absolute;
+    margin-top: 30px;
+}
+
+.conteudobottom h2{
+    margin-left: 56px;
+    color: #fff;
+    font-size: 17.2px;
+    margin-top: 90px;
+    position: absolute;
+}
+
+.conteudobox{
+    display: grid;
+    grid-template-columns: 10px 10px 10px;
+}
+
+.box1{
+    position: absolute;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 350px;
+    height: 380px;
+    margin-left: 56px;
+    margin-top: 150px;
+    box-shadow: 6px 10px 12px -2px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 6px 10px 12px -2px rgba(0,0,0,0.3);
+    -moz-box-shadow: 6px 10px 12px -2px rgba(0,0,0,0.3);
+}
+
+.pedal_leve{
+    position: relative;
+    width:300px;
+    height: 170px;
+    border-radius: 5px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.box1 h1{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.box1 h2{
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 60px;
+    font-size: 18px;
+    color: #000;
+
+}
+
+.button1{
+    position: absolute;
+    margin-left: -96px;
+    margin-top: 330px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold ;
+    background-color: #D9D9D9;
+    
+}
+
+.box2{
+    position: absolute;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 350px;
+    height: 380px;
+    margin-left: 470px;
+    margin-top: 150px;
+    box-shadow: 6px 10px 12px -2px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 6px 10px 12px -2px rgba(0,0,0,0.3);
+    -moz-box-shadow: 6px 10px 12px -2px rgba(0,0,0,0.3);
+}
+
+.pedal_essencial{
+    width:300px;
+    height: 170px;
+    position: relative;
+    border-radius: 5px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.box2 h1{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.box2 h2{
+    margin-left: 25px;
+    margin-top: 60px;
+    font-size: 18px;
+    position: absolute;
+    color: #000;
+}
+
+.button2{
+    position: absolute;
+    margin-left: -96px;
+    margin-top: 330px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold ;
+    background-color: #D9D9D9;
+    
+}
+
+.box3{
+    position: absolute;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 350px;
+    height: 380px;
+    margin-left: 890px;
+    margin-top: 150px;
+    box-shadow: 6px 10px 12px -2px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 6px 10px 12px -2px rgba(0,0,0,0.3);
+    -moz-box-shadow: 6px 10px 12px -2px rgba(0,0,0,0.3);
+}
+
+.box3 h1{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.box3 h2{
+    margin-left: 25px;
+    margin-top: 60px;
+    font-size: 18px;
+    position: absolute;
+    color: #000;
+}
+.pedal_elite{
+    width: 300px;
+    height: 170px;
+    position: relative;
+    border-radius: 5px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.button3{
+    position: absolute;
+    margin-left: -96px;
+    margin-top: 330px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold ;
+    background-color: #D9D9D9;
+}

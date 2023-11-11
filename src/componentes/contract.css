@@ -1,0 +1,420 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+
+}
+
+.main3{
+    background-image: url('../assets/imagens/rochedo.jpg');
+    margin-top: 84rem;
+    position: relative;
+}
+
+.corpo{
+    position: absolute;
+    background-color: #F3CC27;
+    width: 81.4rem;
+    height: 84rem;
+    margin-top: -84rem;
+}
+
+.boxnome h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0.4rem;
+    text-shadow: 0px 3px 8px rgba(0, 0, 0, 0.4);
+}
+
+.boxnome{
+    position: absolute;
+    margin-left: 7rem;
+    margin-top: 9rem;
+}
+
+.nome{
+    border-style: none;
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    box-shadow: 0px 10px 9px -4px rgba(0,0,0,0.2);
+}
+
+.boxcpf h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0.4rem;
+    text-shadow: 0px 3px 8px rgba(0, 0, 0, 0.4);
+}
+
+.boxcpf{
+    position: absolute;
+    margin-left: 33rem;
+    margin-top: 9rem
+}
+
+.cpf{
+    border-style: none;
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    box-shadow: 0px 10px 9px -4px rgba(0,0,0,0.2);
+}
+
+
+.boxemail h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0.4rem;
+    text-shadow: 0px 3px 8px rgba(0, 0, 0, 0.4);
+}
+
+.boxemail{
+    position: absolute;
+    margin-left: 7rem;
+    margin-top: 15rem;
+}
+
+.email{
+    border-style: none;
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    box-shadow: 0px 10px 9px -4px rgba(0,0,0,0.2);
+}
+
+.boxtelefone h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0.4rem;
+    text-shadow: 0px 3px 8px rgba(0, 0, 0, 0.4);
+}
+
+.boxtelefone{
+    position: absolute;
+    margin-left: 7rem;
+    margin-top: 23rem;
+    
+}
+
+.telefone{
+    border-style: none;
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    box-shadow: 0px 10px 9px -4px rgba(0,0,0,0.2);
+    
+}
+
+.boxddd{
+    position: absolute;
+    margin-left: 7rem;
+    margin-top: 25.3rem;
+    
+}
+
+.ddd{
+    border-style: none;
+    width: 5.6rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    background-color: rgba(194, 193, 193, 0.838)
+    
+}
+
+.boxendereco h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0.4rem;
+    text-shadow: 0px 3px 8px rgba(149, 143, 143, 0.4);
+}
+
+.boxendereco{
+    position: absolute;
+    margin-left: 33rem;
+    margin-top: 15rem;
+}
+
+.endereco{
+    border-style: none;
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    box-shadow: 0px 10px 9px -4px rgba(0,0,0,0.2);
+}
+
+.boxcidade{
+    position: absolute;
+    margin-left: 55rem;
+    margin-top: 25rem
+}
+
+.cidade{
+    border-style: none;
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    box-shadow: 0px 10px 9px -4px rgba(0,0,0,0.2);
+}
+
+.boxbairro{
+    position: absolute;
+    margin-left: 55rem;
+    margin-top: 17.2rem;
+}
+
+.bairro{
+    border-style: none;
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    box-shadow: 0px 10px 9px -4px rgba(0,0,0,0.2);
+}
+
+.boxnumero{
+    position: absolute;
+    margin-left: 33rem;
+    margin-top:21rem;
+}
+
+.numero{
+    border-style: none;
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    box-shadow: 0px 10px 9px -4px rgba(0,0,0,0.2);
+}
+
+.boxcep{
+    position: absolute;
+    margin-left: 33rem;
+    margin-top: 25rem
+}
+
+.cep{
+    border-style: none;
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    box-shadow: 0px 10px 9px -4px rgba(0,0,0,0.2);
+}
+.boxbike h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0.4rem;
+    text-shadow: 0px 3px 8px rgba(149, 143, 143, 0.4);  
+}
+.boxbike{
+    position: absolute;
+    margin-left: 7rem;
+    margin-top: 38rem;
+}
+.bike{
+    border-style: none;
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    box-shadow: 0px 10px 9px -4px rgba(0,0,0,0.2);
+}
+
+.boxvalor h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0.4rem;
+    text-shadow: 0px 3px 8px rgba(149, 143, 143, 0.4);  
+}
+.boxvalor{
+    position: absolute;
+    margin-left: 7rem;
+    margin-top: 44rem;
+}
+.valor{
+    border-style: none;
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    box-shadow: 0px 10px 9px -4px rgba(0,0,0,0.2);
+}
+
+.boxupgrade h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0.4rem;
+    text-shadow: 0px 3px 8px rgba(149, 143, 143, 0.4); 
+}
+
+.boxupgrade{
+    position: absolute;
+    margin-top: 44rem;
+    margin-left: 55rem;
+}
+.upgrade{
+    border-style: none;
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 10rem;
+    text-align: center;
+    box-shadow: 0px 10px 9px -4px rgba(0,0,0,0.2);
+}
+
+.bimg1{
+    margin-top: 55rem;
+    margin-left: 7rem;
+    position: absolute;
+    background-color: #ffffff82;
+    width: 25rem;
+    height: 20rem;
+}
+
+.boximagem1 h1{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 16.5rem;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 25rem;
+    height: 2.2rem;
+}
+
+.boximagem1{
+    position: relative;
+    margin-top: 40rem;
+    margin-left: 5rem;
+}
+
+.imagem1{
+    position:absolute;
+    margin-top: 15rem;
+    text-align: center;
+}
+
+.bikebx{
+    position:absolute;
+    height: 18rem;
+    margin-left: 4rem;
+    margin-top: -21rem;
+}
+
+
+.bimg2{
+    margin-top: 55rem;
+    margin-left: 50rem;
+    position: absolute;
+    background-color: #ffffff82;
+    width: 25rem;
+    height: 20rem;
+}
+
+.boximagem2 h1{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 16.5rem;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 25rem;
+    height: 2.2rem;
+}
+
+.boximagem2{
+    position: relative;
+    margin-top: 40rem;
+    margin-left: 5rem;
+}
+
+.imagem2{
+    position:absolute;
+    margin-top: 15rem;
+    text-align: center;
+}
+
+.bimg3{
+    margin-top: 80rem;
+    margin-left: 7rem;
+    position: absolute;
+    background-color: #ffffff82;
+    width: 25rem;
+    height: 20rem;
+}
+
+.boximagem3 h1{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 16.5rem;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 25rem;
+    height: 2.2rem;
+}
+
+.boximagem3{
+    position: relative;
+    margin-top: 40rem;
+    margin-left: 5rem;
+}
+
+.imagem3{
+    position:absolute;
+    margin-top: 15rem;
+    text-align: center;
+}
+
+
+.bimg4{
+    margin-top: 80rem;
+    margin-left: 50rem;
+    position: absolute;
+    background-color: #ffffff82;
+    width: 25rem;
+    height: 20rem;
+}
+
+.boximagem4 h1{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 16.5rem;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 25rem;
+    height: 2.2rem;
+}
+
+.boximagem4{
+    position: relative;
+    margin-top: 40rem;
+    margin-left: 5rem;
+}
+
+.imagem4{
+    position:absolute;
+    margin-top: 15rem;
+    text-align: center;
+}
+
+.button7{
+    position:absolute;
+    margin-top: 105rem;
+    margin-left: 37.5rem;
+    border-style: none;
+    width: 7.5rem;
+    height: 3.5rem;
+    border-radius: 10rem;
+    font-weight: bolder;
+    font-size: 1.4rem;
+    background-color: #fff;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5)
+}
+
+.button7:hover{
+    background-color: #d4d3d3;
+}
+
+
+
